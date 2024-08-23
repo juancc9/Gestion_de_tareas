@@ -1,0 +1,16 @@
+body{
+    background: #e4812b;  
+    background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);  
+    background: linear-gradient(to right, #1d1d1c, #e42b2b); 
+
+}
+.bg-white{
+    background-color: #f20303;
+}
+#descripcion{
+    resize: none;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
